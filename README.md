@@ -1,9 +1,10 @@
 # 💫 About Me:
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4ADE80&background=0D1117&center=true&vCenter=true&width=500&lines=Hello!;I'm+Nour+Elhouda;CS+Student+%40+Suez+Canal+University;ICPC+SCU+Mentor+%26+Problem+Setter;Competitive+Programmer;Aspiring+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C084FC&background=0D1117&center=true&vCenter=true&width=500&lines=Hello+there+:>;I'm+Nour+Elhouda;CS+Student+%40+Suez+Canal+University;ICPC+SCU+Mentor+%26+Problem+Setter;Competitive+Programmer;Pupil+on+Codeforces;Aspiring+Fullstack+Developer)](https://git.io/typing-svg)
 
 - 🎓 CS student at Suez Canal University, Faculty of Computer Science and Informatics.
-- 💻 Building toward fullstack development — React & Tailwind on the frontend, Node.js and databases on the backend.
+- 💻 Building toward full-stack development — React & Tailwind on the frontend, Node.js and databases on the backend.
 - ☁️ Learning to take projects further with cloud deployment.
 - 🧠 Mentor at ICPC SCU, with a foundation in competitive programming and problem solving.
 
@@ -15,3 +16,5 @@
 # 🌐 Contact with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-elhouda-a47069350/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourelhouda12290@gmail.com)
+
+</div>
