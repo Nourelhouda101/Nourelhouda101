@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C084FC&background=0D1117&center=true&vCenter=true&width=500&lines=Hello+there+:>;I'm+Nour+Elhouda;CS+Student+%40+Suez+Canal+University;ICPC+SCU+Mentor+%26+Problem+Setter;Competitive+Programmer;Pupil+on+Codeforces;Aspiring+Fullstack+Developer)](https://git.io/typing-svg)
 
-- 🎓 CS student at Suez Canal University, Faculty of Computer Science and Informatics.
-- 💻 Building toward full-stack development — React & Tailwind on the frontend, Node.js and databases on the backend.
-- ☁️ Learning to take projects further with cloud deployment.
-- 🧠 Mentor at ICPC SCU, with a foundation in competitive programming and problem solving.
+🎓 CS student at Suez Canal University, Faculty of Computer Science and Informatics.<br>
+💻 Building toward full-stack development — React & Tailwind on the frontend, Node.js and databases on the backend.<br>
+☁️ Learning to take projects further with cloud deployment.<br>
+🧠 Mentor at ICPC SCU, with a foundation in competitive programming and problem solving.<br>
 
 
 # 💻 Tech Stack:
